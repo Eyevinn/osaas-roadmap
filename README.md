@@ -1,6 +1,6 @@
-# Eyevinn Open Source as a Service Roadmap
+# Open Source Cloud Roadmap
 
-:sparkle: View the [official Eyevinn Open Source as a Service roadmap](https://github.com/orgs/Eyevinn/projects/21)
+:sparkle: View the [official Open Source Cloud roadmap](https://github.com/orgs/Eyevinn/projects/21)
 
 ## Disclaimer
 
